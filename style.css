@@ -13,6 +13,7 @@ html,body{
     padding: 0 2rem;
     height: 0rem;
     min-height: 10vh;
+    overflow: hidden;
 }
 
 /*--End Navbar--*/
