@@ -6,6 +6,15 @@ html,body{
     overflow-x: hidden;
 }
 
+/*--Global Classes*/
+
+a{
+    text-decoration: none;
+}
+
+/*--End Global Classes*/
+
+
 /*--Navbar--*/
 
 .nav{
