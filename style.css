@@ -44,6 +44,10 @@ ul{
     margin: 0;
 }
 
+.nav .nav-items .nav-link{
+    padding: 1.6rem 1rem;
+}
+
 .nav .nav-brand a{
     font-size: 1.6rem;
     padding: 1rem 0;
