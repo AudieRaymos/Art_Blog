@@ -46,6 +46,8 @@ ul{
 
 .nav .nav-items .nav-link{
     padding: 1.6rem 1rem;
+    font-size: 1.1rem;
+    position: relative;
 }
 
 .nav .nav-brand a{
